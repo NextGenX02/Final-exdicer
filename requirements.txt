@@ -1,0 +1,13 @@
+requests
+colorama
+ipaddress
+datetime
+tldextract
+export
+modules
+bs4
+lxml
+asyncio
+aiohttp
+dnslib
+ssl
